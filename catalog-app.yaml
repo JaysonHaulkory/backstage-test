@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  annotations:
-    backstage.io/kubernetes-namespace: devtroncd
   name: Test-Service
   description: |
     Test Backstage
+  annotations:
+    backstage.io/kubernetes-id: test
 spec:
   type: service
   owner: pjhy10221
