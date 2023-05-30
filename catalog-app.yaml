@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  description: |
+    Test Backstage
+spec:
+  type: service
+  owner: pjhy10221
+  lifecycle: test
