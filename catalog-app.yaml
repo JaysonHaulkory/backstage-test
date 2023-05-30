@@ -4,6 +4,7 @@ metadata:
   name: Test-Service
   description: |
     Test Backstage
+  backstage.io/kubernetes-id: test-pjhy10221
 spec:
   type: service
   owner: pjhy10221
