@@ -4,7 +4,8 @@ metadata:
   name: Test-Service
   description: |
     Test Backstage
-  backstage.io/kubernetes-namespace: devtroncd
+  annotations:
+  'backstage.io/kubernetes-namespace': devtroncd
 spec:
   type: service
   owner: pjhy10221
