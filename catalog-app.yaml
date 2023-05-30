@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test-Service
+  name: test-backstage
   description: |
     Test Backstage
   annotations:
-    backstage.io/kubernetes-id: test
+    backstage.io/kubernetes-id: test-backstage
 spec:
   type: service
-  owner: pjhy10221
+  owner: user:pjhy10221
   lifecycle: test
