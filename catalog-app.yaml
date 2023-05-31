@@ -5,7 +5,7 @@ metadata:
   description: |
     Test Backstage
   annotations:
-    'backstage.io/kubernetes-id': backstage-test
+    'backstage.io/kubernetes-id': test-backstage
     'backstage.io/kubernetes-namespace': pjhy10221-dev
 spec:
   type: service
