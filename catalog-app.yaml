@@ -5,6 +5,7 @@ metadata:
   description: |
     Test Backstage
   annotations:
+    'backstage.io/kubernetes-id': backstage-test
     'backstage.io/kubernetes-namespace': devtroncd
 spec:
   type: service
