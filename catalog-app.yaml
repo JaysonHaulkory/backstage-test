@@ -6,7 +6,7 @@ metadata:
     Test Backstage
   annotations:
     'backstage.io/kubernetes-id': backstage-test
-    'backstage.io/kubernetes-namespace': devtroncd
+    'backstage.io/kubernetes-namespace': pjhy10221-dev
 spec:
   type: service
   owner: user:pjhy10221
